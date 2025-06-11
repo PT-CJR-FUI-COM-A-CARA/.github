@@ -12,7 +12,7 @@ Para realização do projeto, as seguintes tecnologias foram utilizadas:
 
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="30" style="vertical-align:middle; margin-right:8px;" />
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="NestJS" width="30" style="vertical-align:middle; margin-right:8px;" />
   <strong>NestJS</strong> – Framework Node.js para aplicações server-side escaláveis
 </p>
 
