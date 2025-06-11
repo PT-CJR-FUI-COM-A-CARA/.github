@@ -53,25 +53,19 @@ O objetivo é fornecer uma comunidade online onde estudantes possam compartilhar
 
 
 ## Funcionalidades
-Eu como usuário posso:
 
-- Logar na plataforma
-- Mudar minha senha
-- Poder postar uma avaliação sobre um professor
-- Excluir uma avaliação sobre um professor
-- Excluir meu perfil
-- Cadastrar meus dados na plataforma
-- Colocar minha foto de perfil
-- Poder visualizar meu perfil
-- Poder associar um professor à uma avaliação
-- Poder associar uma disciplina à uma avaliação
-- Poder ver as avaliações de um professor
-- Comentar sobre uma avaliação
-- Visualizar os comentários sobre uma avaliação
-- Visualizar os comentários sobre uma avaliação
-- Excluir meus comentários
-- Ordenar as avaliações da mais nova pra mais antiga
-- Ordenar as avaliações da mais antiga pra mais nova
+- Realizar login na plataforma
+- Alterar sua senha de forma segura
+- Cadastrar um novo perfil com dados personalizados
+- Adicionar uma foto ao seu perfil
+- Visualizar seus próprios dados e avaliações no perfil
+- Criar avaliações sobre professores, associando cada uma a uma disciplina específica
+- Visualizar as avaliações de um determinado professor
+- Comentar nas avaliações feitas por outros usuários
+- Visualizar e excluir seus próprios comentários
+- Excluir suas próprias avaliações
+- Excluir completamente seu perfil da plataforma
+- Ordenar as avaliações por data (da mais nova para a mais antiga e vice-versa)
 
 
 
