@@ -10,6 +10,12 @@ Este projeto é uma plataforma online desenvolvida com foco em proporcionar aos 
 
 Para realização do projeto, as seguintes tecnologias foram utilizadas:
 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="30" style="vertical-align:middle; margin-right:8px;" />
+  <strong>NestJS</strong> – Framework Node.js para aplicações server-side escaláveis
+</p>
+
 <p align="left">
   <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="Next.js" width="30" style="vertical-align:middle; margin-right:8px;" />
   <strong>Next.js</strong> – Framework React para SSR e SSG
