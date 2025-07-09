@@ -1,7 +1,7 @@
 # 🐊 Fui Com a Cara - Avaliação de Professores
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1276003617626652702/1382144423063851008/image.png?ex=684a15cd&is=6848c44d&hm=e44e614ff513f81f7f9c467a5cd61b648d300c4cc3abb81e4a6e359eb76b894d&" height="300px" />
+  <img src="jacaréPc" height="300px" />
 </p>
 
 ## Sobre
