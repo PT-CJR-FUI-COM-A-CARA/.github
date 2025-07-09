@@ -1,7 +1,7 @@
 # 🐊 Fui Com a Cara - Avaliação de Professores
 
 <p align="center">
-  <img src="jacaréPc" height="300px" />
+  <img src="jacaréPc.png" height="300px" />
 </p>
 
 ## Sobre
